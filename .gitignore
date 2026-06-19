@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+logs/
+.DS_Store
+.idea/
+.vscode/
+OmniParser/
+tests/__pycache__/
+src/__pycache__/
