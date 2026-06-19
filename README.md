@@ -2,9 +2,6 @@
 
 An AI-powered, vision-based desktop assistant that "sees" your screen, understands natural language instructions, and visually highlights exactly where you need to click by drawing a glowing overlay on your desktop.
 
-![Agent Architecture](logs/annotated_screen.png)  
-*(Example of OmniParser's bounding box recognition, automatically saved to `logs/annotated_screen.png` during execution.)*
-
 ## 🌟 How It Works
 
 Instead of blindly guessing coordinates, this Copilot uses a sophisticated pipeline combining local vision parsing and lightning-fast cloud LLM reasoning:
